@@ -1,3 +1,7 @@
+> This is a fork of the original Grove 4-Digit Display library for Arduino. 
+>
+> This changes the library to work with Calliope mini and simplifies needed functions for blocks.
+
 Grove_4Digital_Display
 --------------------------------
 
